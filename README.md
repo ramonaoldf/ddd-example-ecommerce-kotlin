@@ -289,5 +289,5 @@ Although all fundamental use-case were implemented, there is still a room for im
 
 Check out the alternative Java version in action with additional concepts such as Microfrontends:
 
-https://github.com/ttulka/ddd-example-ecommerce
+https://github.com/ramonaoldf/ddd-example-ecommerce
 
